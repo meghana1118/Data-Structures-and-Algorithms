@@ -23,9 +23,13 @@
 
 
 https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
+
 https://runestone.academy/runestone/books/published/pythonds/index.html
+
 https://www.hackerrank.com/
+
 https://leetcode.com/
+
 https://www.bigocheatsheet.com/
-https://algs4.cs.princeton.edu/home/
+
 https://github.com/mre/the-coding-interview
